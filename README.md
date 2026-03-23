@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Eng. Selma 👋
+### Electronics & Communications Engineer | Cybersecurity Engineer
 
-<!--
-**selma278/selma278** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🛡️ Cybersecurity: Focused on Network Security & Pentesting.
+- 📡 Telecommunications: Strong background in Network Protocols & Infrastructure.
+- 🐍 Programming: Developing security scripts with Python & Bash.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Toolbox
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Metasploit](https://img.shields.io/badge/-Metasploit-2496ED?style=flat&logo=metasploit&logoColor=white)
+
+---
+
+### 📬 Connect with me
+[LinkedIn](https://www.linkedin.com/in/salmaabdou) | [Email](salma.hima20@gmail.com)
