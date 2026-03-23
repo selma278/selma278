@@ -1,4 +1,4 @@
-# Hi, I'm Eng. Selma 👋
+# Hi, I'm Eng. Salma 👋
 ### Electronics & Communications Engineer | Cybersecurity Engineer
 
 - 🛡️ Cybersecurity: Focused on Network Security & Pentesting.
